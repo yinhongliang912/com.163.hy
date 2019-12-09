@@ -789,11 +789,41 @@
     height: 168px;
     margin-left: 11px;
     margin-bottom: 12px;
+    overflow: hidden;
+    background: url(../img/guanzo.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 100%;
+    transition: all 0.5s;
+}
+
+.banxin-yb a:nth-child(2) {
+    background: url(../img/qindao.jpg);
+    background-position: 50% 50%;
+    background-size: 100%;
+    transition: all 0.5s;
+}
+
+.banxin-yb a:nth-child(3) {
+    background: url(../img/jianmen.jpg);
+    background-position: 50% 50%;
+    background-size: 100%;
+    transition: all 0.5s;
+}
+
+.banxin-yb a:nth-child(4) {
+    background: url(../img/taiyuan.png);
+    background-position: 50% 50%;
+    background-size: 100%;
+    transition: all 0.5s;
 }
 
 .banxin-yb a img {
     width: 325px;
     height: 168px;
+}
+
+.banxin-yb a:hover {
+    background-size: 110%;
 }
 
 /* 第六部分· */
@@ -845,16 +875,26 @@
     width: 177px;
     height: 120px;
     margin: 0 1.5px;
+    border-top: 3px solid #949494;
+}
+
+.wangjia-tu a::after {
+    content: "";
+    width: 0;
+    height: 3px;
+    background: #e5b248;
+    position: absolute;
+    top: -3px;
+    left: 0;
+    transition: all 1s;
 }
 
 .wangjia-tu a img {
-    border-top: 3px solid #949494;
     margin: 0 0.5px;
 }
 
-.wangjia-tu a img:hover {
-    border-top: 3px solid #e5b248;
-    transition: all 0.5s;
+.wangjia-tu a:hover::after {
+    width: 100%;
 }
 
 .wangjia-tu a p {
