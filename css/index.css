@@ -96,7 +96,7 @@
     display: inline-block;
     width: 7px;
     height: 10px;
-    background: url(../img/hengan.png) 50% 50%;
+    background: url(../image/hengan.png) 50% 50%;
     position: absolute;
     top: 30px;
     left: 115px;
@@ -115,75 +115,75 @@
 }
 
 .container-shanbian a:nth-child(1) {
-    background: url(../img/nav1_842f1c5.png) 50% 50%;
+    background: url(../image/nav1_842f1c5.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(1):hover {
     transition: all 0.5s;
-    background: url(../img/nav1_on_2e4b2d3.png) 50% 50%;
+    background: url(../image/nav1_on_2e4b2d3.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(2) {
-    background: url(../img/nav2_b93f522.png) 50% 50%;
+    background: url(../image/nav2_b93f522.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(2):hover {
     transition: all 0.5s;
-    background: url(../img/nav2_on_4bcf1c5.png) 50% 50%;
+    background: url(../image/nav2_on_4bcf1c5.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(3) {
-    background: url(../img/nav3_6a62eea.png) 50% 50%;
+    background: url(../image/nav3_6a62eea.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(3):hover {
     transition: all 0.5s;
-    background: url(../img/nav3_on_a7ca2d2.png) 50% 50%;
+    background: url(../image/nav3_on_a7ca2d2.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(4) {
-    background: url(../img/nav4_a70e148.png) 50% 50%;
+    background: url(../image/nav4_a70e148.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(4):hover {
     transition: all 0.5s;
-    background: url(../img/nav4_on_02c911f.png) 50% 50%;
+    background: url(../image/nav4_on_02c911f.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(5) {
-    background: url(../img/nav6_f454d3e.png) 50% 50%;
+    background: url(../image/nav6_f454d3e.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(5):hover {
     transition: all 0.5s;
-    background: url(../img/nav6_on_b53b01c.png) 50% 50%;
+    background: url(../image/nav6_on_b53b01c.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(6) {
-    background: url(../img/nav7_d6a8594.png) 50% 50%;
+    background: url(../image/nav7_d6a8594.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(6):hover {
     transition: all 0.5s;
-    background: url(../img/nav7_on_372099a.png) 50% 50%;
+    background: url(../image/nav7_on_372099a.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(7) {
-    background: url(../img/nav8_b47603b.png) 50% 50%;
+    background: url(../image/nav8_b47603b.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(7):hover {
     transition: all 0.5s;
-    background: url(../img/nav8_on_74d0f9b.png) 50% 50%;
+    background: url(../image/nav8_on_74d0f9b.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(8) {
-    background: url(../img/nav9_d52c205.png) 50% 50%;
+    background: url(../image/nav9_d52c205.png) 50% 50%;
 }
 
 .container-shanbian a:nth-child(8):hover {
     transition: all 0.5s;
-    background: url(../img/nav9_on_c844ef5.png) 50% 50%;
+    background: url(../image/nav9_on_c844ef5.png) 50% 50%;
 }
 
 .container-shanbian span {
@@ -201,7 +201,7 @@
     right: 0;
     width: 313px;
     height: 246px;
-    background-image: url(../img/aside-active_c0dbbf2.png);
+    background-image: url(../image/aside-active_c0dbbf2.png);
 }
 
 .gudindw a:nth-child(1) {
@@ -272,7 +272,7 @@
 .zhuongjian {
     width: 100%;
     height: 444px;
-    background-image: url(../img/dier.jpg);
+    background-image: url(../image/dier.jpg);
 }
 
 .zhuongjian a {
@@ -282,7 +282,7 @@
     width: 600px;
     height: 300px;
     box-sizing: border-box;
-    background-image: url(../img/5d78d29e96dee41b2cc4f2eePLCd92Az02.jpg);
+    background-image: url(../image/5d78d29e96dee41b2cc4f2eePLCd92Az02.jpg);
 }
 
 .zhuongjian a span {
@@ -308,7 +308,7 @@
     width: 600px;
     height: 300px;
     box-sizing: border-box;
-    background-image: url(../img/nav10.png);
+    background-image: url(../image/nav10.png);
 }
 
 .sbbufen {
@@ -335,7 +335,7 @@
     display: inline-block;
     width: 7px;
     height: 10px;
-    background: url(../img/hengan.png) 50% 50%;
+    background: url(../image/hengan.png) 50% 50%;
     position: absolute;
     top: 5px;
     left: 88px;
@@ -363,7 +363,7 @@
     width: 540px;
     height: 32px;
     box-sizing: border-box;
-    background-image: url(../img/changtiao.png);
+    background-image: url(../image/changtiao.png);
 }
 
 .changtiaotu-tujian {
@@ -466,7 +466,7 @@
 /* 第三部分 */
 .shipin {
     width: 100%;
-    background-image: url(../img/feiji.jpg);
+    background-image: url(../image/feiji.jpg);
 }
 
 .hangzhi {
@@ -494,7 +494,7 @@
     left: 8px;
     width: 22px;
     height: 16px;
-    background: url(../img/baofan.jpg);
+    background: url(../image/baofan.jpg);
 }
 
 .zuongji-di {
@@ -557,7 +557,7 @@
     height: 6px;
     margin-left: 27px;
     margin-bottom: 4px;
-    background: url(../img/hengan.png) 50% 50%;
+    background: url(../image/hengan.png) 50% 50%;
 }
 
 .zuixin a b {
@@ -565,7 +565,7 @@
     width: 4px;
     height: 14px;
     margin-right: 10px;
-    background: url(../img/3dian.png);
+    background: url(../image/3dian.png);
 }
 
 /* 中心部分 */
@@ -573,7 +573,7 @@
     display: inline-block;
     width: 523px;
     height: 342px;
-    background: url(../img/tankebj.jpg);
+    background: url(../image/tankebj.jpg);
 }
 
 .dazx ul {
@@ -699,7 +699,7 @@
 }
 
 .youbianhuantu a:hover s {
-    background: url(../img/xzjt.png);
+    background: url(../image/xzjt.png);
 }
 
 /* 第五部分 */
@@ -790,28 +790,28 @@
     margin-left: 11px;
     margin-bottom: 12px;
     overflow: hidden;
-    background: url(../img/guanzo.jpg) no-repeat;
+    background: url(../image/guanzo.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 100%;
     transition: all 0.5s;
 }
 
 .banxin-yb a:nth-child(2) {
-    background: url(../img/qindao.jpg);
+    background: url(../image/qindao.jpg);
     background-position: 50% 50%;
     background-size: 100%;
     transition: all 0.5s;
 }
 
 .banxin-yb a:nth-child(3) {
-    background: url(../img/jianmen.jpg);
+    background: url(../image/jianmen.jpg);
     background-position: 50% 50%;
     background-size: 100%;
     transition: all 0.5s;
 }
 
 .banxin-yb a:nth-child(4) {
-    background: url(../img/taiyuan.png);
+    background: url(../image/taiyuan.png);
     background-position: 50% 50%;
     background-size: 100%;
     transition: all 0.5s;
@@ -922,7 +922,7 @@
 
 .zbxmdwz h3 {
     display: inline-block;
-    background: url(../img/kk.png);
+    background: url(../image/kk.png);
     font-size: 19px;
     color: #e5b248;
     font-weight: 700;

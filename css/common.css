@@ -23,25 +23,25 @@
 .redian {
     width: 100%;
     height: 595px;
-    background: url(../img/beijintu.jpg);
+    background: url(../image/beijintu.jpg);
 }
 
 .shaishi {
     width: 100%;
     height: 521px;
-    background: url(../img/shaishi.jpg);
+    background: url(../image/shaishi.jpg);
 }
 
 .wanjiazx {
     width: 100%;
     height: 382px;
-    background: url(../img/wanjia.jpg);
+    background: url(../image/wanjia.jpg);
 }
 
 .zhoutu {
     width: 100%;
     height: 216px;
-    background: url(../img/zhdbjt.jpg);
+    background: url(../image/zhdbjt.jpg);
 }
 
 /* 清除浮动 */
