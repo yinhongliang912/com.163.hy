@@ -392,7 +392,7 @@
 
 /* 最后一步 */
 .zhoutu {
-    background-image: url(../upload/38.png);
+    background: url(../image/zhdbjt.jpg);
     height: 115px;
 }
 
@@ -445,11 +445,11 @@
 }
 
 .banxing-b a {
-    color: #8f9dbf;
+    color: #333;
 }
 
 .banxing-b a:hover {
-    color: #8f9dbf;
+    color: #333;
 }
 
 .banxing-a {
@@ -462,7 +462,7 @@
 .banxing-a p {
     display: inline-block;
     margin-top: 13px;
-    color: #8f9dbf;
+    color: #333;
 }
 
 .banxing-a a {
@@ -470,7 +470,7 @@
     margin-left: 304px;
     width: 139px;
     height: 26px;
-    color: #8f9dbf;
+    color: #fff;
     line-height: 26px;
     background-color: #610000;
 }
