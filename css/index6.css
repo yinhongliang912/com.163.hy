@@ -1,0 +1,276 @@
+/* 第一部分 */
+.container-zbian {
+    float: left;
+    width: 180px;
+    height: 55px;
+    background-color: #cf1132;
+    z-index: 1000;
+}
+
+.container-zbian span {
+    font-size: 11px;
+    color: #FFF;
+    line-height: 55px;
+    padding-left: 75px;
+    box-sizing: border-box;
+}
+
+.container-tupian {
+    float: left;
+}
+
+.container-tupian img {
+    margin-top: 4px;
+    height: 44px;
+    margin-left: 742px;
+    box-sizing: border-box;
+}
+
+.container-youbian {
+    float: right;
+    width: 138px;
+    height: 55px;
+    border-left: 1px solid #e4e4e4;
+}
+
+.container-youbian:hover {
+    border-bottom: 1px solid red;
+}
+
+.container-youbian a {
+    color: #333;
+    line-height: 55px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+.container-youbian a:hover {
+    color: red;
+
+}
+
+
+/* 第二部分 */
+.ksbq {
+    width: 100%;
+    height: 1055px;
+    background-image: url(../upload/03.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.ksbq-to {
+    background-image: url(../upload/47.png);
+    background-repeat: no-repeat;
+}
+
+.ksbq-to img {
+    width: 295px;
+    height: 101px;
+    margin-left: 352px;
+    margin-top: -4px;
+    box-sizing: border-box;
+}
+
+.ksbq-to a {
+    display: inline-block;
+    width: 160px;
+    height: 82px;
+    margin-left: 20px;
+    position: relative;
+    top: -52px;
+    left: 0;
+    text-align: center;
+    box-sizing: border-box;
+    background-image: url(../upload/48.png);
+    background-repeat: no-repeat;
+    background-position: 0 40px;
+}
+
+.ksbq-to a:hover {
+    background-image: url(../upload/49.png);
+}
+
+.ksbq-to span {
+    display: inline-block;
+    width: 160px;
+    height: 82px;
+    line-height: 82px;
+    font-size: 20px;
+}
+
+.ksbq-to span:hover {
+    color: #f9d079;
+}
+
+/* 第三部分 */
+.dibf img {
+    position: absolute;
+    top: 160px;
+    left: 60px;
+}
+
+/* 第四部分 */
+.tope {
+    width: 1200px;
+    height: 610px;
+    margin-top: 440px;
+    margin-left: 355px;
+}
+
+.tope h2 {
+    text-align: center;
+    width: 1200px;
+    height: 60px;
+    font-size: 40px;
+    color: #515e71;
+}
+
+.tope-left {
+    float: left;
+    width: 600px;
+    height: 100%;
+}
+
+.tope-left img {
+    width: 600px;
+    height: 300px;
+}
+
+.tope-left b {
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+    color: #515e71;
+}
+
+.tope-left span {
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+
+.tope-right {
+    width: 450px;
+    height: 450px;
+    float: left;
+    margin-left: 90px;
+}
+
+.tope-right div {
+    width: 450px;
+    height: 116px;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.tope-right div:nth-child(2) {
+    height: 196px;
+}
+
+.tope-right div img {
+    padding-top: 20px;
+    width: 32px;
+    height: 32px;
+}
+
+.tope-right span {
+    font-size: 32px;
+    color: #515e71;
+    font-weight: 700;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+.tope-right div p {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+/* 最后一步 */
+.zhoutu {
+    background-color: #000;
+    height: 115px;
+}
+
+.banxing {
+    height: 115px;
+}
+
+.banxing-shanbiantuh {
+    display: inline-block;
+    width: 986px;
+    height: 58px;
+    padding-left: 465px;
+}
+
+.banxing-shanbiantuh span:nth-child(1) {
+    float: left;
+    margin-left: 310px;
+    margin-top: 22px;
+}
+
+.banxing-shanbiantuh span:nth-child(2) {
+    float: left;
+    margin-top: 14px;
+}
+
+.banxing-diergbf {
+    float: left;
+    width: 100%;
+    height: 48px;
+    padding-left: 470px;
+    box-sizing: border-box;
+}
+
+.banxing-zbbfh {
+    float: left;
+    width: 353px;
+    height: 48px;
+}
+
+.banxing-zbbfh span a:nth-child(3) {
+    margin: 0 16px;
+}
+
+.tupiand img {
+    float: right;
+}
+
+.banxing-ybbfh {
+    float: left;
+    margin-left: 20px;
+    width: 612px;
+    height: 32px;
+}
+
+.banxing-b a {
+    color: #fff;
+}
+
+.banxing-b a:hover {
+    color: #fff;
+}
+
+.banxing-a {
+    display: inline-block;
+    width: 612px;
+    height: 16px;
+
+}
+
+.banxing-a p {
+    display: inline-block;
+    margin-top: 13px;
+    color: #fff;
+}
+
+.banxing-a a {
+    display: inline-block;
+    margin-left: 304px;
+    width: 139px;
+    height: 26px;
+    color: #fff;
+    line-height: 26px;
+    background-color: #610000;
+}
